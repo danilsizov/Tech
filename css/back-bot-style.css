@@ -1,0 +1,29 @@
+.back-bot
+{
+	background: url(../images/back-bot.png);
+	width:100%;
+	height:600px;
+	background-size: 100% 100%;
+}
+
+h4
+{
+	font-size: 26px;
+	color:white;
+}
+
+.margin
+{
+	margin:20px;
+}
+
+.footer
+{
+	background: #202e3b;
+}
+
+.footer-color
+{
+	background: #202e3b;
+	color:white;
+}
