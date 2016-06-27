@@ -36,15 +36,21 @@
 	width:100%;
 }
 
-.datafly{
+.dataflytext{
 	color:#26668e;
 	font-size: 30px;
 	padding-top:30px;
 }
 
+.flyingdatablock{
+	background-color:#FFF;
+	height: 540px;
+	width:100%;
+}
+
 .middle-content{
 	background-color:#FFF;
-	height: 1345px;
+	height: 800px;
 	width:100%;
 }
 
