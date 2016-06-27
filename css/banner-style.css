@@ -8,6 +8,17 @@
 
 }
 
+.banner-contacts
+{
+	width:100%;
+	height:120px;
+	margin-top:95px;
+	background: url(../images/heder-top.png);
+	background-size: 100% 100%;
+
+}
+
+
 .main-banner{
 	width:100%;
 	height:900px;
@@ -38,4 +49,44 @@ h6
 	text-align: center;
 	padding-top: 5px;
 	margin-top: 23px;
+}
+
+.contacts-text
+{
+	font-size: 18px;
+	color:#202020 !important;
+}
+
+.about-text
+{
+	font-size: 16px;
+	color:#202020 !important;
+}
+
+.btn-contacts
+{
+	background: #354b60;
+	color:white;
+	padding:10px;
+	text-align: center;
+}
+
+.title-text
+{
+	color:#202e3b;
+	font-size: 26px;
+}
+
+.feedback-text
+{
+	font-size: 14px;
+	color:#202e3b;
+	text-align:center;
+}
+
+.name-text
+{
+	font-size: 16px;
+	color:#202e3b;
+	text-align:center;
 }
