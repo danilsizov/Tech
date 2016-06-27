@@ -74,15 +74,19 @@
 }
 
 .text-advan{
-	margin-top: 10px;
+	margin-top: 40px;
 	color:black;
-	font-size:17px;
+	font-size:13px;
 }
 
 .picture{
-	margin-top: 30px;
+	margin-top: 50px;
 }
 
 .types-track{
 	margin-top: 30px;
+}
+
+.table-cell{
+	margin-left: 15px;
 }
