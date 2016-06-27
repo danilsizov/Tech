@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+
+body
+{
+	font-family: 'PT Sans', sans-serif;
+	background: #f3f3f3;
+}
+
+.margin-top{
+margin-top:  20px;
+}
+
+.padding-top
+{
+	padding-top: 5px;
+	margin-left:-25px;
+}
+
+.margin-bot
+{
+	margin-bottom:20px;
+}
+
+.center-align
+{
+	text-align: center;
+}

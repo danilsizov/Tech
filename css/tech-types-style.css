@@ -1,0 +1,105 @@
+.white-back
+{
+	background: white;
+}
+
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0;
+    }
+
+h2
+{
+	color:black !important;
+	font-size: 26px;
+}
+
+h3
+{
+ 	font-size: 16px;
+}
+
+#tech-types
+{
+	color:black;
+}
+
+.btn-pdf
+{
+	background: #354b60;
+	color:white;
+	font-size: 16px;
+	padding: 5px;
+	text-align: center;
+}
+
+.card
+{
+	background: white;
+	color:black !important;
+	padding:30px;
+	width:100%;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.card-margin
+{
+	margin:30px;
+}
+
+.card h1
+{
+	font-size:21px;
+	color:black;
+}
+
+.card h2
+{
+	font-size:27px;
+}
+
+.card h3
+{
+	font-size:18px;
+}
+
+#card-margin
+{
+	margin:10px;
+}
+
+.orange-btn
+{
+	margin-right:0;
+	background: #f3c331;
+	text-align: center;
+	font-size: 16px;
+	color:white;
+}
+
+.grey-btn
+{
+	margin-left:0;
+	background: #354b60;
+	text-align: center;
+	font-size: 16px;
+	color:white;
+}
+
+.none-margin
+{
+	margin:0;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover
+{
+	background: #354b60;
+}
+
+.pagination>li>a, .pagination>li>span
+{
+	border:none;
+	background: none;
+	color:#354b60;
+}

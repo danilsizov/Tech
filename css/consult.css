@@ -1,0 +1,46 @@
+.main-banner{
+	width:100%;
+	height:900px;
+	margin-top:95px;
+	background: url(../images/main-esk.png);
+	background-size: 100% 100%;
+}
+
+.grey-consult
+{
+	width: 100%;
+	height: 180px;
+	margin-left:0;
+	background: #202e3b;
+}
+
+.white-advantages
+{
+	width: 100%;
+	height: 135px;
+	margin-left:0;
+	background: #FFF;
+}
+
+.grey-tech
+{
+	width: 100%;
+	height: 400px;
+	margin-left:0;
+	background: #f3f3f3;
+}
+
+.grey-wordsandnumbers
+{
+	width: 100%;
+	height: 440px;
+	margin-left:0;
+	background: #202e3b;
+}
+
+.main-map{
+	width:100%;
+	height:500px;
+	background: url(../images/map.png);
+	background-size: 100% 100%;
+}
