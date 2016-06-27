@@ -10,9 +10,8 @@
 	margin-right: 300px;
 }
 
-.navbar-default-footer .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+.navbar-default-footer
 {
-	background:none !important;
 	color:white;
 }
 
