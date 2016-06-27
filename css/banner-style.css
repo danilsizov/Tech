@@ -18,6 +18,21 @@
 
 }
 
+.portfolio-banner
+{
+	width:100%;
+	height:150px;
+	margin-top:95px;
+	background: url(../images/portfolio-banner.png);
+	background-size: 100% 100%;
+
+}
+
+.white-text
+{
+	color:white;
+	font-size:16px;
+}
 
 .main-banner{
 	width:100%;
@@ -89,4 +104,75 @@ h6
 	font-size: 16px;
 	color:#202e3b;
 	text-align:center;
+}
+
+.black-line
+{
+	width:100%;
+	height:10px;
+	background: black;
+}
+
+.back1
+{
+	background: url(../images/portfolio-back1.png);
+	width:100%;
+	height:600px;
+	background-size: 100% 100%;
+	padding:20px;
+}
+
+.back2
+{
+	background: url(../images/portfolio-back2.png);
+	width:100%;
+	height:600px;
+	background-size: 100% 100%;
+	padding:20px;
+}
+
+.back3
+{
+	background: url(../images/portfolio-back3.png);
+	width:100%;
+	height:600px;
+	background-size: 100% 100%;
+	padding:20px;
+}
+
+
+.portf-card
+{
+	background: white;
+	color:#202e3b !important;
+	font-size:14px;
+	padding:20px;
+}
+
+.portf-card h3
+{
+	font-size: 20px;
+}
+
+.port-btn
+{
+	background: #ffcd34;
+	padding:7px;
+	font-size: 15px;
+}
+
+.bot-cons
+{
+	background:#202e3b;
+}
+
+.my-cons-form
+{
+	background:none;
+	border-radius: 0;
+	color:white;
+	border-top: 2px solid #ffcd34;
+  border-right: 0;
+  border-bottom: 2px solid #ffcd34;
+  border-left: 0px;
 }
