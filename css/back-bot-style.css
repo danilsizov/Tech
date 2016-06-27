@@ -25,5 +25,22 @@ h4
 .footer-color
 {
 	background: #202e3b;
-	color:white;
+	color:white !important;
+	border:none;
+}
+
+.footer-color a
+{
+	color:white !important;
+}
+
+#text-size-big-footer
+{
+	color:#e1b835 !important;
+	font-size: 24px;
+}
+
+.btn-fot
+{
+	color:#e1b835 !important;
 }

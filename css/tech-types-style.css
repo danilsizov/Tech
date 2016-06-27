@@ -43,6 +43,18 @@ h3
 	margin-bottom: 20px;
 }
 
+.none-right-margin
+{
+	margin-right: 0 !important;
+	padding: 0;
+}
+
+.none-left-margin
+{
+	margin-left: 0 !important;
+	padding: 0;
+}
+
 .card-margin
 {
 	margin:30px;
@@ -76,6 +88,7 @@ h3
 	text-align: center;
 	font-size: 16px;
 	color:white;
+	padding:5px;
 }
 
 .grey-btn
@@ -85,6 +98,7 @@ h3
 	text-align: center;
 	font-size: 16px;
 	color:white;
+	padding:5px;
 }
 
 .none-margin
