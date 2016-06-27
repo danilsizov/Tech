@@ -59,9 +59,16 @@
 	text-align: center;
 }
 
-.btn-cat{
-	margin-top: 20px;
+.btn-cat {
+	margin-top: 30px;
 	border: 2px solid #ffcd34;
-	font-size: 18px;
+	font-size: 25px;
 	color:white;
+	text-align: center;
+}
+
+.text-consult{
+	margin-top:20px;
+	color:#ffcd34;
+	font-size: 30px;
 }
