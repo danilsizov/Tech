@@ -64,6 +64,18 @@ h6
 	text-align: center;
 	padding-top: 5px;
 	margin-top: 23px;
+	cursor:pointer;
+}
+
+.btn-banner:hover
+{
+	background:#ffd966;
+}
+
+
+.btn-banner:active
+{
+	background:#f6bf16;
 }
 
 .contacts-text
@@ -159,6 +171,18 @@ h6
 	background: #ffcd34;
 	padding:7px;
 	font-size: 15px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.port-btn:hover
+{
+	background:#ffd966;
+}
+
+.port-btn:active
+{
+	background:#f6bf16;
 }
 
 .bot-cons
