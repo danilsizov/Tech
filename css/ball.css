@@ -1,0 +1,71 @@
+.header{
+	background-color:#2c2c2c;
+	height: 70px;
+	width:100%;
+}
+
+.top-picture{
+	background: url(../images/balls.png);
+	background-size: 100% 100%;
+	height: 600px;
+	width:100%;
+}
+
+.top-video{
+	height: 700px;
+	width:100%;
+	background-color:#FFF;
+}
+
+.top-videooo{
+	height: 650px;
+	width:100%;
+	background-color:#FFF;
+}
+
+.route{
+	background: url(../images/mountains.png);
+	background-size: 100% 100%;
+	height: 600px;
+	width:100%;
+}
+
+.calculator{
+	background-color:#f2f2f2;
+	height: 100px;
+	width:100%;
+}
+
+.datafly{
+	color:#26668e;
+	font-size: 30px;
+	padding-top:30px;
+}
+
+.middle-content{
+	background-color:#FFF;
+	height: 1345px;
+	width:100%;
+}
+
+.middle-picture{
+	background: url(../images/dark-sky.png);
+	background-size: 100% 100%;
+	height: 380px;
+	width:100%;
+}
+
+.foot-content{
+	background-color:#FFF;
+	height: 1050px;
+	width:100%;
+}
+
+.foot-picture{
+	background: url(../images/light-sky.png);
+	background-size: 100% 100%;
+	height: 450px;
+	width:100%;
+}
+
+26668e
