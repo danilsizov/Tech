@@ -164,6 +164,7 @@ h6
 .bot-cons
 {
 	background:#202e3b;
+	padding:20px;
 }
 
 .my-cons-form
@@ -175,4 +176,31 @@ h6
   border-right: 0;
   border-bottom: 2px solid #ffcd34;
   border-left: 0px;
+}
+
+a:hover
+{
+	border: 2px solid #bc9d36;
+	margin:-2px;
+}
+
+a:active
+{
+	border: 2px solid #796e38;
+	margin:-2px;
+}
+
+.btn-nav a:hover
+{
+	background: #ffecb2 !important;
+}
+
+.btn-cat:hover
+{
+	border: 2px solid #ffd966;
+}
+
+.btn-cat:active
+{
+	border: 2px solid #ffe390;
 }
